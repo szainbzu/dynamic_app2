@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dynamic_App2</string>
+    <string-array name="car_type">
+        <item>SUV</item>
+        <item>Sedan</item>
+        <item>Hatch-Bag</item>
+    </string-array>
+</resources>
